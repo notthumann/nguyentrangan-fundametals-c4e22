@@ -1,0 +1,2 @@
+- A nested list is a list inside another list.
+- A list can store both integers and strings.

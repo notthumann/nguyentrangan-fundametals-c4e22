@@ -1,5 +1,4 @@
 from turtle import *
-speed(0)
 fillcolor ("red")
 colormode()
 pencolor("red")
