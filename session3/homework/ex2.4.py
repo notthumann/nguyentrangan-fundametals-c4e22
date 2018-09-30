@@ -1,4 +1,4 @@
-sizes = [5 , 7 , 10, 22, 24 , 50 , 75]
+sizes = [100 , 7 , 10, 22, 24 , 50 , 75]
 print("Hi I am not human being and these are my sheep sizes: ")
 l = len(sizes)
 print(sizes)
